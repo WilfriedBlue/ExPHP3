@@ -7,7 +7,7 @@
 
 $var = 0;
 for($var = 0; $var <= 10; $var++) {
-    echo "Corection erreur";
+    echo "Correction erreur";
 }
 
 echo "<br><br>";
