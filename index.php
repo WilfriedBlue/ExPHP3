@@ -5,9 +5,8 @@
 //l'afficher
 //l'incrementer
 
-$var = 0;
-for($var = 0; $var <= 10; $var++) {
-    echo "Correction erreur";
+for($var = 1; $var < 11; $var++) {
+    echo $var . "<br>";
 }
 
 echo "<br><br>";
